@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/GabrielYago10/javascript/issues"
   },
-  "homepage": "https://github.com/GabrielYago10/javascript#readme"
+  "homepage": "https://github.com/GabrielYago10/javascript#readme",
+  "dependencies": {
+    "@colors/colors": "^1.6.0",
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  }
 }
