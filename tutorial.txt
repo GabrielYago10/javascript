@@ -179,3 +179,27 @@ if (condição) {
 Observações:
 1) Uma condição nunca pode ser verdadeira e falsa simultaneamente
 2) No uso do if-else sempre uma das condições será processada.
+
+if (condicao 1) {
+    //condicao 1 verdadeira 
+} else if(condicao 2){
+    //condicao 2 verdadeira
+} else {
+    //condição falsa
+}
+
+Obs: Nesta etrutura  o else é opcional, porem se indicado 
+caso não nenhum condição for verdadeiro ele obrigatoriamente 
+executara o que estever no else.
+
+switch (variavel) {
+    case 2:
+        // codigo  caso o valor 
+        da variavel seja  1
+    case 2:
+        // codigo  caso o valor 
+        da variavel seja  2
+    default: 
+        // opcional, o codigo sera executado se nenhum caso for definido
+        break    
+}
