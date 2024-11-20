@@ -4,12 +4,13 @@
  */
 
 const input = require('readline-sync')
+console.log(typeof(input))
 
 // variaveis 
 
 let consumo, peso 
 
-console.clear()
+//console.clear()
 console.log("Cálculo do consumo de água")
 
 //entrada 
