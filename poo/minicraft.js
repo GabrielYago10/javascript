@@ -1,7 +1,7 @@
 /**
  *  Fundamentos da POO
  *  Abstração, herança e polimorfismo
- * @author Jean Andrade
+ * @author Gabriel Yago
  */
 
 console.clear()
